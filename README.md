@@ -1,7 +1,7 @@
 # Exercice d'accessibilité des contenus
 
 ## Équipe
-- Prénom nom
+- Isabel Hurtado
 - Prénom nom
 
 ## Objectifs
