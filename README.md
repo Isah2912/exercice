@@ -81,17 +81,13 @@ D’après les captures-écrans que vous trouverez dans le dossier [images/3-tab
 
 Sinon, expliquez le problème en vous basant sur les règles de base énoncées dans les notes de cours. 
 
-
-
 __Tutoriel sur les formulaires du w3c__  
 [Article](images/3-table-des-matieres_h1-h6/3-1/tuto-form-w3c.pdf)  
 
 [Table des matières (outline)](images/3-table-des-matieres_h1-h6/3-1/tuto-form-w3c-outline.png) 
 
 Réponse : 
-
-----
-----
+Oui, elle est bien documentée, car le titre de la page est mis en premier. Les éléments qui suivent sont des éléments qui sont considérés comme sous-titre. Donc, ils sont bien positionnés et nommés. 
 ----
 
 __L’affaire Savtchenko__ 
@@ -100,8 +96,8 @@ __L’affaire Savtchenko__
   
 Réponse : 
 
-----
-----
+Non, il y a une mauvaise hiérarchie dans la table des manières. Le h1 est placé après des h2 ce qui ne fonctionne pas, parce que le h1 désigne le sujet principal et doit être placé en premier. Le paragraphe en dessous de l'image n'est pas un h2 mais un paragraphe. Les h2 sont utilisés comme sous-titre. Pour les éléments "voir aussi", "nos dossiers","suivez-nous" et les autres dans le même genre il faudrait que ce soit de h3.
+
 ----
 
 
@@ -111,7 +107,7 @@ Réponse :
 - Ajouter un calque de blanc à 50% de transparence
 - Dans un 3e calque, par-dessus, identifiez les titres et leurs niveaux (h1-h6) de manière voyante (couleur rouge et font-size suffisant)
 - Sauvegarder au format .psd ou .png dans le même dossier.
-- [Relier ce fichier-réponse ici]()
+- [Relier ce fichier-réponse ici](images/3-table-des-matieres_h1-h6/3-2/concevoir-un-design-sans-la-couleur.png)
 
 ### 4. Baliser un tableau de données pour qu’il soit accessible
 
